@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+<meta charset="UTF-8">
+<meta name="author" content="Tori Nguyen">
+<meta name="description" content="A practice with meta tags & sematic elements">
+<meta name="title" content="HTML 2">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:title" content="2nd HTML Practice">
+<meta property="og:image" content="html-5.png">
+<meta name="twitter:card" content="2nd HTML Practice">
+<link rel="stylesheet" href="style.css">
+<title>2nd practice</title>
+    </head>
+<body>
+    <header>2nd Try with meta and semantic elements</header>
+    <main>
+        <h1>Well, it's 6AM now</h1>
+        <hr>
+<ul>
+<li>...I shouldn't drink that tea </li>
+<li>I use resources from <abbr title="Mozilla Developer Network">MDN</abbr></li>
+<li>guess i'm stuck with coding forever</li>
+</ul>
+<h2>But...</h2>
+<ul>
+<li>It's a good thing isn't it?</li>
+<li>I'm <strong>starting</strong> to frame out my career <em>after all these <abbr title="university">uni</abbr> years</em></li>
+<li>I should be grateful for that</li>
+</ul>
+<hr><hr><hr>
+<h2>Let's list what I learned in the last 2 days</h2>
+<dl>
+    <dt><h3>Fogg's behavior model</h3></dt>
+    <dd><p>FBM is proposed by B.J Fogg, helps UX designers understand and influence behaviour by focusing on three core elements:</p>
+        <ol>
+            <em>
+            <li><strong>Motivation</strong></li>
+            <li><strong>Ability</strong></li>
+            <li><strong>Prompt</strong></li>
+            </em>
+        </ol>
+    </dd>
+    <dt><h3>CREATE action funnel</h3></dt>
+    <dd><p>The CREATE action funnel is a framework that helps in understanding user actions and decision-making processes.</p>
+    <ol>
+        <em>
+            <li><strong>Cue</strong></li>
+            <li><strong>Reaction</strong></li>
+            <li><strong>Evaluation</strong></li>
+            <li><strong>Ability</strong></li>
+            <li><strong>Timing</strong></li>
+            <li><strong>Execution</strong></li>
+        </em>
+    </ol></dd>
+<dt><h3>Spectrum of thinking interventions</h3></dt>
+<dd><p>How our mind would respond in a default, lowest energy way, if we don't consciously do something different. From situations requiring minimal thought to those demanding intensive thinking</p>
+<ol>
+    <em>
+        <li><strong>Habits</strong>: a learned routine based on familiar cues</li>
+        <li><strong>Other intuitive responses</strong>: responses based on past experiences in a familiar, semi-familiar situations</li>
+        <li><strong>Active mindset or self-concept</strong>: used in ambiguous scenarios with multiple possible interventions</li>
+        <li><strong>Heuristics</strong>: used in situations requiring conscious attention, but the decisions can be made easily</li>
+        <li><strong>Focus, conscious calculation</strong>: used in unfamiliar scenarios or crucial decisions where deliberate focus is required</li>
+    </em>
+</ol></dd>
+
+<dt><h3>NUDGE Theory</h3></dt>
+<dd><p>a behavioral science concept that focuses on understanding how humans make choices and how they can be influenced by subtle changes in the environment (than direct instruction, legislation or enforcement).</p>
+<ol>
+    <li><h4>Biases in decision-making processes</h4></li>
+        <ul>
+            <li><em><strong>Anchoring bias:</strong> people make decisions based heavily on the first piece of information given to them </em></li>
+            <li><em><strong>Availability bias:</strong> people think that things are more likely to happen, if we can easily remember experiences of when they happened before</em></li>
+            <li><em><strong>Representativeness heuristics:</strong> We assume things that fit our stereotype to be more common [or more rational]</em></li>
+        </ul>
+    </li>
+    <li><h4>NUDGE methods</h4></li>
+    <ul> 
+        <li><em><strong>Choice Architecture:</strong> Design layouts and ordering of choices that influences user decisions, like placing desirable features on top</em></li>
+        <li><em><strong>Default:</strong> Design default options/modes that encourage users to make beneficial choices</em></li>
+        <li><em><strong>Social proof:</strong> showing people making choices before and/or having positive experiences</em></li>
+        <li><em><strong>Timely interventions:</strong> providing information at critical moments to guide user decisions</em></li>
+        <li><em><strong>Narrowing the field:</strong> reducing the number of choices presented to users to simplify decision-making, like making lists, categories, and other methods</em></li>
+        <li><em><strong>Feedback:</strong> providing users with information about their actions to reinforce learning and improve decision-making</em></li>
+    </ul>
+</ol>
+</dd>
+<dt><h3>Persuasive design</h3></dt>
+<dd><p>Persuasive design is an UX area focuses on influencing human behaviors and encouraging users to take specific actions using technology.</p></dd>
+<ol>
+    <li><h4>Examples of persuasive design techniques</h4></li>
+    <ul>
+        <li><em><strong>Reinforcement:</strong> positive feedbacks/rewards towards completing an action [a badge, score, points,...]</em></li>
+        <li><em><strong>Social influence:</strong> </em></li>
+        <li><em><strong>Reciprocity:</strong> offering something of value to users in exchange for their engagement or action</em></li>
+        <li><em><strong>Commitment and consistency:</strong> encouraging users to make small commitments that lead to larger actions over time</em></li>
+    </ul>
+</ol>
+</dl>
+<br>
+<address>
+    <p>&nbsp;&nbsp;&nbsp;Contact me at: <a href="mailto:nguyenthianhthuht20@gmail.com">nguyenthianhthuht20@gmail.com</a></p>
+</address>
+</main>
+<footer>
+    &lt;&lt;&lt;&copy; Tori Nguyen  &gt;&gt;&gt;
+</footer>
+</body>
+</html>
